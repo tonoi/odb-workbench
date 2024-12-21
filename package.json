@@ -24,7 +24,17 @@
           "command": "odb-workbench.helloWorld",
           "group": "navigation"
         }
-      ]
+      ],
+"chatParticipants": [
+      {
+        "id": "odb-workbench.helloWorld",
+        "name": "Hello World",
+        "fjullname": "Hello World",
+        "description": "Hello World from odb-workbench",
+        "isSticky": true
+      }
+    ]
+
     }
   },
   "scripts": {
